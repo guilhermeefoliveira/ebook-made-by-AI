@@ -102,7 +102,7 @@ Design adjustments, layout, and final touches were **human-made using Microsoft 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/guilhermeefoliveira">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/guilhermeefoliveira/">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/guilhermeefoliveira/">LinkedIn</a>
     </p>
 </p>
 <br/><br/>
