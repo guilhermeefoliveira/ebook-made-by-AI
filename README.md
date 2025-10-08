@@ -1,6 +1,6 @@
 # **Code and Conquer: The Data Science Uprising - an eBook made by AI**
 
-![Ebook Cover](cover.png)
+![Ebook Cover](assets/github_cover.png)
 
 ## **About the Project**
 
@@ -14,6 +14,11 @@ Original reference repository for this course project:
 
 ---
 
+## **Read the eBook**
+
+You can read produced eBook [HERE](output/ebook-datascience.pdf)
+
+---
 ## **Project Overview**
 
 The eBook explores the power of **Data Science**, focusing on practical **machine learning techniques** implemented in Python using **pandas** and **scikit-learn**.  
