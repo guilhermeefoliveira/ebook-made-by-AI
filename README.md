@@ -1,4 +1,4 @@
-# **Code and Conquer: The Data Science Uprising**
+# **Code and Conquer: The Data Science Uprising - an eBook made by AI**
 
 ![Ebook Cover](cover.png)
 
