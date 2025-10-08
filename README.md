@@ -1,6 +1,11 @@
-# **Code and Conquer: The Data Science Uprising - an eBook made by AI**
+# **Code and Conquer: The Data Science Uprising - an eBook made by Gui Freire Oliveira, powered by AI**
 
-![Ebook Cover](assets/github_cover.png)
+<p align="center">
+<img 
+    src="./assets/github_cover.png"
+    width="400"  
+/>
+</p>
 
 ## **About the Project**
 
