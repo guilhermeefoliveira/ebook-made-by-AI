@@ -69,7 +69,7 @@ Design adjustments, layout, and final touches were **human-made using Microsoft 
    > - Always make the text concise using one paragraph.
    > - Always give real-life examples for the codes.
    > - Always give a suggestive title for each chapter and subchapter."
-   > - 
+
 3. **Cover image generation prompt (using Microsoft Copilot):**
    > Create an image of one women data scientist battling data in a cartoon-like style. I want the image to be simple and I want the overall color of the image to be olive green/brown. Make the scientist look heroic.
 ---
